@@ -1,0 +1,35 @@
+
+.footer{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 10px; 
+    
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.footer div{
+    margin: 30px;
+}
+.follow{
+    width: 180px;
+    height: 150px;
+}
+.follow i{
+    margin-right: 9px;
+}
+
+ 
+
+.footer1{
+    text-align: justify;
+    margin-left: 400px;
+}
+.footer1 p:hover{
+    margin-right: 1px;
+}

@@ -1,0 +1,36 @@
+.nabbar{
+    display: flex;
+    
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.navbar{
+    text-align: center;
+}
+.top-bar{
+    background-color: #2a2c39;
+    color: rgb(255, 255, 255);
+}
+.nabbar ul{
+    display: flex;
+    list-style: none;
+    
+
+}
+.nabbar ul li{
+    margin-right: 110px;
+}
+
+
+.button1{
+    
+    padding: 4px 12px 4px 12px;
+    border-radius: 13px;
+    background-color: gold;
+    color: white;
+    font-weight: 700;
+    border: 1px solid firebrick;
+    box-shadow: 5px 10px 18px rgb(178, 231, 167);
+    margin-top: 12px;
+}

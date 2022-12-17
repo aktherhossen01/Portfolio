@@ -1,0 +1,20 @@
+.heading{
+    text-align: center;
+}
+.span{
+    color: gold;
+}
+.box-section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 40px;
+    
+    
+}
+.box-size{
+    background-color: rgb(76, 0, 255);
+    margin: 3px;
+    text-align: center;
+    border-radius: 4px;
+    color: aliceblue;
+}

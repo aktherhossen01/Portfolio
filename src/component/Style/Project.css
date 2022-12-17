@@ -1,0 +1,24 @@
+.project-img{
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+.project-img img{
+    margin: 20px;
+    border-radius: 11px;
+    
+}
+.a{
+    width: 350px;
+    height: 240px;
+}
+.b{
+    width: 350px;
+    height: 240px;
+}
+.c{
+    width: 350px;
+    height: 240px;
+}

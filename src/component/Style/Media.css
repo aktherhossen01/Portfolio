@@ -1,0 +1,13 @@
+.media{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px;
+}
+.imagess img{
+    width: 100vh;
+    border-radius: 20px;
+}
+.bloges-section{
+    text-align: justify;
+    width: 550px;
+}

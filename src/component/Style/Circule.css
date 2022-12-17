@@ -1,0 +1,25 @@
+.circul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+    
+}
+.n{
+    margin: 20px;
+}
+.first-item h1{
+    border: 5px solid gold;
+    border-radius: 50px;
+    padding: 8px;
+}
+.second-item h1{
+    border: 5px solid gold;
+    border-radius: 60px;
+    padding: 8px;
+}
+.last h1{
+    border: 5px solid gold;
+    border-radius: 50px;
+    padding: 8px;  
+}
